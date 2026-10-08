@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Aly Guindo 👋
 
-<!--
-**guindoaly-collab/guindoaly-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en ingénierie informatique spécialisé en **Cybersécurité** à **HESTIM** (Casablanca, Maroc). Passionné par la sécurité des systèmes, le réseau, le développement de logiciels et les nouvelles technologies.
+### 🚀 À propos de moi
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Éducation :** Élève ingénieur en Cybersécurité à HESTIM, Casablanca.
+- 💻 **Hardware / Setup :** Développeur et passionné par les architectures système (Ryzen 7, GPU NVIDIA RTX, environnements Windows & Linux).
+- 🔒 **Centres d'intérêt :** Pentesting, sécurité réseau, développement logiciel, administration système.
+- 🎯 **Objectif :** Développer des solutions informatiques sécurisées et contribuer à des projets open-source.
+### 🛠️ Compétences & Technologies
+  Programmation : Python, C, C++, JavaScript, Bash
+  Cybersécurité : Sécurité Réseau, Analyse de Vulnérabilités, Pentesting
+  Systèmes      : Linux (Ubuntu/Debian/Kali), Windows
+  Outils        : Git, GitHub, VS Code, Wireshark, Nmap
